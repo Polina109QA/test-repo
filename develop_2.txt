@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Welcome to Mobile Pay");
         System.out.println("12345");
-        System.out.println("000000");
+        System.out.println("9999");
 
     }
 }
